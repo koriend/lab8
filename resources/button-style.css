@@ -1,0 +1,10 @@
+.jfx-button {
+    -jfx-button-type: RAISED;
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+}
+
+.text-field {
+    -fx-text-fill: black ;
+    -fx-font-size: 18pt ;
+}
